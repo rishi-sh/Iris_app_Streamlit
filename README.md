@@ -11,7 +11,7 @@ How to run the app?
 Clone the repository
 You need to first clone this repository using the following command on your terminal
 
-git clone https://github.com/shresth26/Iris-app-Streamlit.git
+git clone https://github.com/rishi-sh/Iris_app_Streamlit/blob/main/iris_app.py
 
 Install the dependencies
 
